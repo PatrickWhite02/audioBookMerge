@@ -2,7 +2,7 @@
 
 A simple python script for merging audiobook mp3 files.
 
-When you rip an audiobook cd to digital so that you can play it on your phone, you'll bee met with folders full of short mp3 tracks. This doesn't lead to the relaxing experience you should have while listening to an audiobook.
+When you rip an audiobook cd to digital so that you can play it on your phone, you'll be met with folders full of short mp3 tracks. This doesn't lead to the relaxing experience you should have while listening to an audiobook.
 
 audioBookMerge makes it easy to merge the source files for multiple audiobooks, all in one click!
 
