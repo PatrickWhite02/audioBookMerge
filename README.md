@@ -8,7 +8,7 @@ audioBookMerge makes it easy to merge the source files for multiple audiobooks, 
 
 
 
-#Instructions:
+<p><b><font size="+3">Instructions: </font></b></p>
 
 Place mergeScript.py in the folder where you ripped your audiobooks, using the convention NAME OF BOOK / DISC # / TRACKS.
 
